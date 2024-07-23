@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/catch-pokemon/static/css/main.858ce704.css",
+    "main.js": "/catch-pokemon/static/js/main.da410cb0.js",
+    "static/js/592.5ff4844a.chunk.js": "/catch-pokemon/static/js/592.5ff4844a.chunk.js",
+    "index.html": "/catch-pokemon/index.html",
+    "main.858ce704.css.map": "/catch-pokemon/static/css/main.858ce704.css.map",
+    "main.da410cb0.js.map": "/catch-pokemon/static/js/main.da410cb0.js.map",
+    "592.5ff4844a.chunk.js.map": "/catch-pokemon/static/js/592.5ff4844a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.858ce704.css",
+    "static/js/main.da410cb0.js"
+  ]
+}
